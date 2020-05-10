@@ -7,7 +7,7 @@ Reading all this text is fully optional, you can copy paste the commands below i
 - [1 Prerequisite](#overview)
   - [1a Installing NodeJS, NPM & PM2](#step-1a---installing-nodejs-npm--pm2)
   - [1b Installing MongoDB](#step-1b---installing-mongodb)
-  - [1c Installing & setting up Bitcoin ABC](#step-1c---installing-and-setting-up-your-bitcoin-abc-node)
+  - [1c Installing & setting up Bitcoin Cash Node](#step-1c---installing-and-setting-up-your-bitcoin-cash-node)
 - [2 Install and sync Bitd](#step-2---install-and-sync-bitd)
 - [3 Setting up Bitserve](#step-3---setting-up-bitserve-a-front-end-api-for-bitdb)
 - [4 Setting up Sockserve](#step-4---setting-up-sockserve-a-streaming-output-of-new-transactions-and-blocks)
@@ -65,9 +65,9 @@ sudo systemctl status mongodb
 
 ^ If this does not say `Active: active (running)`, run `sudo systemctl start mongodb`
 
-## Step 1c - Installing and setting up your Bitcoin ABC node
+## Step 1c - Installing and setting up your Bitcoin Cash Node
 
-For the purpose of this guide we will be using Bitcoin ABC, although any other node software compatible with the Bitcoin ABC RPC endpoint will work perfectly fine.
+For the purpose of this guide we will be using Bitcoin Cash Node, although any other node software compatible with the Bitcoin Cash Node RPC endpoint will work perfectly fine.
 
 **First install the required dependencies to be able to run add-apt-repository**
 
@@ -75,17 +75,17 @@ For the purpose of this guide we will be using Bitcoin ABC, although any other n
 apt-get install -y software-properties-common
 ```
 
-**Then add the [Bitcoin-ABC](https://launchpad.net/~bitcoin-abc/+archive/ubuntu/ppa) launchpad repository**
+**Then add the Bitcoin Cash Node repository**
 
 ```
-sudo add-apt-repository ppa:bitcoin-abc/ppa
+sudo add-apt-repository ppa:bitcoin-cash-node/ppa
 ```
 
 ```
 sudo apt-get update
 ```
 
-**Install your Bitcoin ABC full node**
+**Install your Bitcoin Cash Node full node**
 
 ```
 sudo apt-get install bitcoind bitcoin-qt
@@ -131,7 +131,7 @@ zmqpubhashblock=tcp://127.0.0.1:28332
 rpcworkqueue=512
 ```
 
-**Now we're ready to start syncing our Bitcoin ABC node.**
+**Now we're ready to start syncing our Bitcoin Cash Node.**
 
 ```
 bitcoind --daemon
