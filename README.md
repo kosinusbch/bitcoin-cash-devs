@@ -82,6 +82,14 @@ Somewhat curated list of all the best Bitcoin Cash development resources, includ
 
 >Mainly focused on the Chinese market as you can tell by their font, features all the standard features you'd expect from a block explorer in addition to 16 different metrics such as transactions per day, pool distribution, miner profitability, tx's per block, active addresses list and much more.
 
+### [Explorer.cash](https://explore.cash)
+
+> Fast and efficient blockchain explorer, powered by the BCHD fullnode.
+
+### [Bitcoinunlimited Explorer](https://explorer.bitcoinunlimited.info)
+
+> Simple and open-source blockchain explorer powered by Bitcoin Unlimited.
+
 ## Domain Registration
 
 ### [Njalla](https://njal.la)
@@ -100,19 +108,17 @@ Somewhat curated list of all the best Bitcoin Cash development resources, includ
 
 ## Hosting Platforms
 
-### [Blazingfast](https://my.blazingfast.io/?affid=2370)
+### [Blazingfast](https://blazingfast.io)
 
 >Cheap and solid ddos protected hosting. You definetively get what you pay for with them and when they say unmetered bandwidth they really mean it. Somewhat lenient on dmca notices, great support team. Spamhaus listings will end with a instant suspension though, so if you run a site where that might be an issue, try to keep malware and "misleading content" to a minimum. Invoices are paid after 1 confirmation.
 
-### [Vultr](https://www.vultr.com/?ref=7095984)
+### [Vultr](https://www.vultr.com)
 
 >Cheap and stable cloud hosting platform with quality VPS packages. You pay on a hourly basis, so if you only need a server for a few hours, that's fine. Takes about 4 minutes to set up a brand new VPS, and I would recommend these guys in favor of the more mainstream "digitalocean" any day. When it comes to takedown notices they usually give you 48 hours to respond, either with a message saying it's been dealt with or a counter notice. Balance credited instantly with zero confirmations.
+>
+> Does sadly require you to give them a credit card.
 
-### [THCServers](https://www.thcservers.com/portal/aff.php?aff=628)
+### [THCServers](https://www.thcservers.com)
 
 >Provide very cheap dedicated servers with unmetered bandwidth (unknown soft-cap). Their support team is fair, though expect to pay a 10% fee on any purchase made with crytptocurrency. Invoice marked as paid after 1 confirmation.
-
-### [Time4VPS](https://www.time4vps.com/?affid=4409)
-
->Affordable VPS servers with good specs. If you plan to run a user-generated content site, I'd put a [Blazingfast](https://my.blazingfast.io/?affid=2370) reverse proxy in front of it though. If you exceed their bandwidth limit, your download/upload speed is limited to 100mbps for the remainder of the billing period (assuming you bought the 1 EUR gigabit upgrade). Invoices marked as paid after 1 confirmation.
 
