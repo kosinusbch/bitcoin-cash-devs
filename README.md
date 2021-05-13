@@ -12,7 +12,15 @@ Somewhat curated list of all the best Bitcoin Cash development resources, includ
 
 ### [Setting up a BitDB Fountainhead node on a brand new Ubuntu server](installing-bitdb-on-ubuntu.md)
 
-> A complete walkthrough of setting up BitDB fountainhead and all it's dependencies
+> A complete walkthrough of setting up BitDB fountainhead and all it's dependencies.
+
+### [Installing and setting up BCHN for developers](installing-and-configuring-bchn-for-devs.md)
+
+> This guide will walk you through setting up BCHN on Ubuntu and configuring it for developer use-cases.
+
+### [Installing NodeJS, NPM & PM2](installing-nodejs-npm-and-pm2.md)
+
+> This guide will walk you through installing NodeJS, NPM and PM2 on a Ubuntu server.
 
 ## Useful API's
 
