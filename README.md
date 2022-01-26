@@ -102,23 +102,6 @@ Somewhat curated list of all the best Bitcoin Cash development resources, includ
 
 >Good for cheap domains. If you expect to be a bit of an inconvenient customer or receive more than a few takedown notices a month you can expect to get your domains suspended pretty fast though. Credits your balance at 0 confirmations.
 
-### [Gandi](https://www.gandi.net)
+### [Epik](https://www.epik.com/)
 
->One of the first ICANN-accredited domain name registrars founded in 1999 with a respectable mission statement of "No Bullshit". Competetive prices, credits your balance after 2-10 confirmations.
-
-## Hosting Platforms
-
-### [Blazingfast](https://blazingfast.io)
-
->Cheap and solid ddos protected hosting. You definetively get what you pay for with them and when they say unmetered bandwidth they really mean it. Somewhat lenient on dmca notices, great support team. Spamhaus listings will end with a instant suspension though, so if you run a site where that might be an issue, try to keep malware and "misleading content" to a minimum. Invoices are paid after 1 confirmation.
-
-### [Vultr](https://www.vultr.com)
-
->Cheap and stable cloud hosting platform with quality VPS packages. You pay on a hourly basis, so if you only need a server for a few hours, that's fine. Takes about 4 minutes to set up a brand new VPS, and I would recommend these guys in favor of the more mainstream "digitalocean" any day. When it comes to takedown notices they usually give you 48 hours to respond, either with a message saying it's been dealt with or a counter notice. Balance credited instantly with zero confirmations.
->
-> Does sadly require you to give them a credit card.
-
-### [THCServers](https://www.thcservers.com)
-
->Provide very cheap dedicated servers with unmetered bandwidth (unknown soft-cap). Their support team is fair, though expect to pay a 10% fee on any purchase made with crytptocurrency. Invoice marked as paid after 1 confirmation.
-
+>Known for allowing a lot of edgy free-speech platforms such as 8chan, patriots.win and gab.com when no one else wanted to. They recently had a pretty bad breach, but as long as you enter fake whois info and pay using cryptocurrency you should be entirely unaffected even if the same thing happens in the future.
